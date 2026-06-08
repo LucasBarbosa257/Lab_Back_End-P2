@@ -4,8 +4,8 @@ API REST desenvolvida com Django 6 e Django REST Framework para gerenciar um cat
 
 ## Pré-requisitos
 
-- [Docker](https://docs.docker.com/get-docker/)
-- [Docker Compose](https://docs.docker.com/compose/install/) (incluso no Docker Desktop)
+- Docker
+- Docker Compose
 
 ## Configuração do ambiente
 
